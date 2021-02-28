@@ -36,3 +36,16 @@ Run-Length Encoding https://www.kaggle.com/leahscherschel/run-length-encoding
 
 
 -------
+
+## Global Mask Shift 
+https://www.kaggle.com/frankx7/global-mask-shift
+
+### Public Score: 0.866
+
+
+-------
+
+
+
+
+
