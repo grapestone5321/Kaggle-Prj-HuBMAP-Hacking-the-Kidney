@@ -62,12 +62,13 @@ dfpred = pd.read_csv('../input/hubmaplb0850/submission_LB0.850.csv'):
 x_shift = -21:
 
       y_shift = -43                LB 0.867    ver6
-      y_shift = -42                LB 0.867    ver8    --- Best    123 -> 100
-      y_shift = -41                LB          ver9
+      y_shift = -42                LB 0.867    ver8                123 -> 100
+      y_shift = -41                LB 0.867    ver9                100 -> 100
 
+y_shift = -42:
 
-
-
+      x_shift = -21                LB 0.867    ver8      
+      x_shift = -20                LB 0.867    ver10   --- Best   100 -> 96
       
 -------      
       
