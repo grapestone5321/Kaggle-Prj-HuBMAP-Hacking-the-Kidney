@@ -71,6 +71,8 @@ y_shift = -42:
       x_shift = -20                LB 0.867    ver10              100 -> 96
       x_shift = -19                LB 0.867    ver11               97 -> 94
       x_shift = -18                LB 0.867    ver12   --- Best    94 -> 93
+      x_shift = -17                LB 0.867    ver13               93 -> 93
+      
       
 -------      
       
