@@ -50,7 +50,9 @@ https://www.kaggle.com/frankx7/global-mask-shift
 https://www.kaggle.com/frankx7/global-mask-shift
 
       Public Score: 0.866
-### dfpred 
+### dfpred
+
+x_shift = -21, y_shift = -43: 
 
       dfpred = pd.read_csv('../input/best-public-hubmap/submission_public_TPU.csv')
       dfpred = pd.read_csv('../input/hubmap-lb0849/submission_subm_V14_TPU.csv')        LB 0.866    ver5
@@ -73,6 +75,12 @@ y_shift = -42:
       x_shift = -18                LB 0.867    ver12   --- Best    94 -> 93
       x_shift = -17                LB 0.867    ver13               93 -> 93
       
-      
+ 
+x_shift = -18, y_shift = -42: 
+ 
+      dfpred = pd.read_csv('../input/best-public-hubmap/submission_public_TPU.csv')     LB 0.866    ver14
+      dfpred = pd.read_csv('../input/hubmap-lb0849/submission_subm_V14_TPU.csv')        LB 0.866    ver15
+      dfpred = pd.read_csv('../input/hubmaplb0850/submission_LB0.850.csv')              LB 0.867    ver12 
+ 
 -------      
       
