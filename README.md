@@ -85,3 +85,24 @@ x_shift = -18, y_shift = -42:
  
 -------      
       
+## HuBMAP fast.ai starter sub
+https://www.kaggle.com/iafoss/hubmap-pytorch-fast-ai-starter-sub
+
+
+### bs = 64
+
+      bs = 16      LB 0.836    ver3, 4
+      bs = 32      LB 0.836    ver2
+      bs = 64      LB 0.836    ver1
+
+### self.drop_aspp = nn.Dropout2d(0.5):
+
+bs = 64:
+
+      self.drop_aspp = nn.Dropout2d(0.5)    LB 0.836    ver1
+      self.drop_aspp = nn.Dropout2d(0.8)    LB 0.836    ver5
+
+
+-------
+
+
