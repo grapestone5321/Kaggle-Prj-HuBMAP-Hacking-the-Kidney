@@ -81,6 +81,7 @@ x_shift = -18, y_shift = -42:
       dfpred = pd.read_csv('../input/best-public-hubmap/submission_public_TPU.csv')     LB 0.866    ver14
       dfpred = pd.read_csv('../input/hubmap-lb0849/submission_subm_V14_TPU.csv')        LB 0.866    ver15
       dfpred = pd.read_csv('../input/hubmaplb0850/submission_LB0.850.csv')              LB 0.867    ver12 
+      dfpred = pd.read_csv('/kaggle/input/hubfastai836/hub-fast-ai-836.csv')            LB 0.853    ver16
  
 -------      
       
