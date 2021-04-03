@@ -131,12 +131,13 @@ bs = 64:
 
 ## HuBMAP - Hacking the Kidney
 
+
 ### Y_SHFT default = -40
 
 X_SHFT = -24:
 
      Y_SHFT = -40      LB 0.916    ver1
-     Y_SHFT = -44      LB 0.916    ver3    --- Best    206 -> 205
+     Y_SHFT = -44      LB 0.916    ver2    --- Best    206 -> 205
 
 
 
