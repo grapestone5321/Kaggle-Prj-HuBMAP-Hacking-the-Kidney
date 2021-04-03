@@ -21,6 +21,9 @@ The goal of this competition is the implementation of a successful and robust gl
 
 -------
 
+
+## Welcome to the HuBMAP: Hacking the Kidney Competition! by Leah Scherschel
+
 To help you get started, please check out the following notebooks:
 
 Dataset Details https://www.kaggle.com/leahscherschel/dataset-details
