@@ -17,7 +17,8 @@ May 21, 2021
 
 -------
 
-### Goal
+## Task
+
 Your challenge is to detect functional tissue units (FTUs) across different tissue preparation pipelines. 
 
 An FTU is defined as a “three-dimensional block of cells centered around a capillary, such that each cell in this block is within diffusion distance from any other cell in the same block”. 
@@ -26,6 +27,20 @@ The goal of this competition is the implementation of a successful and robust gl
 
 -------
 
+## Evaluation
+
+This competition is evaluated on the mean Dice coefficient. 
+
+The Dice coefficient can be used to compare the pixel-wise agreement between a predicted segmentation and its corresponding ground truth. 
+
+The Dice coefficient is defined to be 1 when both X and Y are empty. 
+
+The leaderboard score is the mean of the Dice coefficients for each image in the test set.
+
+### Dice coefficient
+https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficie
+
+-------
 
 ## Welcome to the HuBMAP: Hacking the Kidney Competition! by Leah Scherschel
 
@@ -121,7 +136,7 @@ bs = 64:
 X_SHFT = -24:
 
      Y_SHFT = -40      LB 0.916    ver1
-     Y_SHFT = -44      LB     ver
+     Y_SHFT = -44      LB 0.916    ver3    --- Best    206 -> 205
 
 
 
