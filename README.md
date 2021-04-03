@@ -1,16 +1,21 @@
 # Kaggle-HuBMAP-Hacking-the-Kidney
 Kaggle-HuBMAP-Hacking-the-Kidney
 
+-------
 
+## Submission Deadline
 
-## End Date (Final Submission Deadline): 
-February 1 , 2021 11:59 PM UTC] 11:59 PM UTC
+### End Date (Final Submission Deadline): 
+May 10, 2021 at 11:59 PM UTC] 11:59 PM UTC
 
 ### Selected teams present their solutions to Judges:
-February 5, 2021
+May 17, 2021
 
 ### Winners announced 
-February 12, 2021
+May 21, 2021
+
+
+-------
 
 ### Goal
 Your challenge is to detect functional tissue units (FTUs) across different tissue preparation pipelines. 
