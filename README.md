@@ -27,6 +27,7 @@ The goal of this competition is the implementation of a successful and robust gl
 
 -------
 
+
 ## Evaluation
 
 This competition is evaluated on the mean Dice coefficient. 
@@ -64,19 +65,7 @@ Run-Length Encoding https://www.kaggle.com/leahscherschel/run-length-encoding
 
 - efficientnet_1_0_0: Vasiliy updated 4 months ago (Version 1)
 
-
--------
-
-## Progress
-
-### Public Best LB Score: 0.918
-
-### Private Score: 
-
-
-
-
-
+- segmentation_models: Vasiliy updated 4 months ago (Version 1)
 
 -------
 
@@ -162,12 +151,4 @@ X_SHFT = -24:
 
 X_SHFT = -24
 
--------
 
-## Kidney Unet model (keras) inference
-https://www.kaggle.com/vgarshin/kidney-unet-model-keras-inference
-
-      Public Score 0.918       ver33    --- Best
-
-
--------
