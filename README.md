@@ -58,6 +58,13 @@ Polygon to Pixel Mask Conversion https://www.kaggle.com/leahscherschel/polygon-t
 Run-Length Encoding https://www.kaggle.com/leahscherschel/run-length-encoding
 (How to Perform Run-Length Encoding)
 
+-------
+
+## Dataset
+
+- efficientnet_1_0_0: Vasiliy updated 4 months ago (Version 1)
+
+
 
 -------
 
