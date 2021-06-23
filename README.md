@@ -69,10 +69,15 @@ Run-Length Encoding https://www.kaggle.com/leahscherschel/run-length-encoding
 
 -------
 
+## Progress
+### Public Best LB Score: 0.9182 (0.9165)
+### Private Score: 0.9290 (0.9347)
+
+
 ## Global Mask Shift 
 https://www.kaggle.com/frankx7/global-mask-shift
 
-### Public Score: 0.866
+      Public Score: 0.866
 
 
 -------
@@ -145,10 +150,19 @@ bs = 64:
 X_SHFT = -24:
 
      Y_SHFT = -40      LB 0.916    ver1
+     
      Y_SHFT = -44      LB 0.916    ver2    --- Best    206 -> 205
-
-
+                       Private Score: 0.9347
 
 X_SHFT = -24
 
+-------
 
+### Kidney Unet model (keras) inference
+https://www.kaggle.com/vgarshin/kidney-unet-model-keras-inference
+
+      LB 0.9182    ver33    --- Best   
+      Private Score: 0.9290
+
+
+-------
